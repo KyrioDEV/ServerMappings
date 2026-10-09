@@ -1,0 +1,44 @@
+{
+    "id": "dropmc",
+    "name": "DropMC",
+    "description": "Survival 1.21.11+ com mineração, aventura, desafios",
+    "addresses": [
+        "dropmc.gg",
+        "dropmc.gg - 19132"
+    ],
+    "primaryAddress": "dropmc.gg",
+    "minecraftVersions": [
+        "1.21.11.*",
+        "1.22.1*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "pt-br",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "BR",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "primaryGameType": "PvP",
+    "website": "https://dropmc.gg/",
+    "store": "https://loja.dropmc.gg/",
+
+  
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "twitter": "dropmc"
+        "discord": "discord.gg/dropmc"
+    },
+    "crossplay": false
+}
